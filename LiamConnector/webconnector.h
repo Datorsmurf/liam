@@ -9,6 +9,8 @@
 	#include "WProgram.h"
 #endif
 #include "LiamState.h"
+#include <ESP8266WebServer.h>
+
 
 class WebConnector {
 
